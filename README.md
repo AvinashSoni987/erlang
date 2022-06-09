@@ -18,3 +18,5 @@ Create atoms
 
 ![](images/atom.png)
 
+List Basic Operations
+Spilting List into Head and Tail
