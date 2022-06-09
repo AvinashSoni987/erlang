@@ -1,3 +1,5 @@
+Week 1
+
 Create Variables in the Shell
 
 Seeing Your Bound Variables
