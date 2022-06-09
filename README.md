@@ -20,3 +20,4 @@ Create atoms
 
 List Basic Operations
 Spilting List into Head and Tail
+![](images/list.png)
