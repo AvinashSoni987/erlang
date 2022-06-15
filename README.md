@@ -21,3 +21,13 @@ Create atoms
 List Basic Operations
 Spilting List into Head and Tail
 ![](images/list.png)
+
+Mapping Data using Maps 
+
+![](images/Maps.png)
+
+Pattern Matching
+
+![](images/PattermMatch.png)
+
+
