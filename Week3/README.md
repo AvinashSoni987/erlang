@@ -7,6 +7,7 @@ Run time error in erlang.
 ![](images/excep2.png)
 
 Execeptions Program result
+
 ![](images/exceptions_result.png)
 
 
